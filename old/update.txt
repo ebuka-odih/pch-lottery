@@ -1,0 +1,10 @@
+ManageWinController
+basic/layouts/master
+
+core/app/Http/Controllers/Gateway/StripeV3/ProcessController.php
+core/app/Http/Controllers/Gateway/Paypal/ProcessController.php
+core/app/Http/Controllers/Gateway/CoinbaseCommerce/ProcessController.php
+
+core/app/Http/Controllers/Admin/ManageUsersController.php - User deposit amount
+core/resources/views/admin/language/edit_lang.blade.php
+core/app/Http/Controllers/TicketController.php
